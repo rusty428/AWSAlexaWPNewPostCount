@@ -10,8 +10,11 @@ What to do:
 3) Update the database information in the lambda_function.py file:
 
 rds_host  = "YOUR DATABASE CONNECTION STRING"
+
 rds_username = "YOUR DATABASE USERNAME"
+
 rds_password = "YOUR DATABASE PASSWORD"
+
 rds_db_name = "YOUR DATABASE NAME"
 
 4) Create the skill in the Alexa Developer Console: https://developer.amazon.com/alexa/console/ask
